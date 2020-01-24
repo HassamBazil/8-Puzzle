@@ -1,6 +1,6 @@
 // Variables
 var messages = ["CTIS - Web Technologies 1<br/>PROJECT<br/>Fall 2018",
-    "BY<br/>Hassam Bazil and Fahad Ahmad<br/>21701324",
+    "BY<br/>Hassam Bazil and Fahad Ahmad<br/>21701658",
     "<br/>Can you solve it?<br/>"];
 
 var board = mov = solution = [], empty = [0, 0];
